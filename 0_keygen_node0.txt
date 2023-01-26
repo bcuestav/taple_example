@@ -1,0 +1,6 @@
+iMac-de-Benito:taple-tools benitojcv$ ./scripts/taple-keygen ed25519
+keygen
+["taple-keygen", "ed25519"]
+PRIVATE KEY ED25519 (HEX): abe623f5c8bdb6955ac3874cc8ce28238a60e933d9ec9a10e974fcb145f44989
+CONTROLLER ID ED25519: EbPeCUvk4rMQS5qd0BkUPU0qvdYYN-_Fs0erY6T7uV0c
+PeerID: 12D3KooWH9j6fStxmxp78woh8VU1QbzrMnHxceA92RBk9oCATiVk

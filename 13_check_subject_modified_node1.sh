@@ -1,0 +1,1 @@
+curl --location --request GET 'http://localhost:3001/api/subjects/J7qkFmQ75r-9eV7nUMN2ibPGViFtXH8Q2V20yp3OzVBY/events/1/'

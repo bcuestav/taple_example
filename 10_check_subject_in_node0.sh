@@ -1,0 +1,1 @@
+curl --location --request GET 'http://localhost:3000/api/subjects/J7UOm3Zy4u8jxy9eo_CS_KzI6AOquXr4cWbmbZ_kkJG4'
